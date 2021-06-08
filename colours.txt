@@ -1,0 +1,9 @@
+background : #262626
+background-alternate : #2e2e2e
+
+decoration: #009185 
+
+link: #16decd 
+link-visited: #0fcbf5
+
+
