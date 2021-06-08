@@ -1,4 +1,4 @@
-# logseq-materia-manjaro-dark
+# (WIP) logseq-materia-manjaro-dark
 
 [Logseq](https://github.com/logseq/logseq) theme. Fork of [DubininDmitry's Harmony theme for logseq](https://github.com/DubininDmitry/Harmony-theme-for-Logseq) to match [freefreeno's Materia Manjaro Dark](https://github.com/freefreeno/Materia-Manjaro-Dark).
 
