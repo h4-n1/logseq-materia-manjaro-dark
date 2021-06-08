@@ -28,8 +28,8 @@ html[data-theme='dark'] {
   --ls-primary-text-color: rgba(255, 255, 255, 0.87);
   --ls-secondary-text-color: rgba(255, 255, 255, 0.6);
   --ls-title-text-color: var(--ls-primary-text-color);
-  --ls-link-text-color: #b2ccdf;
-  --ls-link-text-hover-color: #fff;
+  --ls-link-text-color: #16decd;
+  --ls-link-text-hover-color: #0fcbf5;
   --ls-link-ref-text-color: var(--ls-link-text-color);
   --ls-link-ref-text-hover-color: var(--ls-link-text-hover-color);
   --ls-tag-text-color: var(--ls-link-text-color);
