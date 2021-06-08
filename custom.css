@@ -11,10 +11,10 @@ html { font-family: 'Inter', sans-serif; }
 
 .dark-theme,
 html[data-theme='dark'] {
-  --ls-primary-background-color: #21232b;
-  --ls-secondary-background-color: #282a33;
-  --ls-tertiary-background-color: rgba(40, 42, 51, .95);
-  --ls-quaternary-background-color: rgba(255, 255, 255, 0.04);
+  --ls-primary-background-color: #262626;
+  --ls-secondary-background-color: #2e2e2e;
+  --ls-tertiary-background-color: #424242;
+  --ls-quaternary-background-color: #4d4d4d;
   --ls-table-tr-even-background-color: rgba(255, 255, 255, 0.05);
   --ls-active-primary-color: #8ec2c2;
   --ls-active-secondary-color: #eeffff;
