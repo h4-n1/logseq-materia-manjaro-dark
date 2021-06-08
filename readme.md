@@ -2,6 +2,8 @@
 
 [Logseq](https://github.com/logseq/logseq) theme. Fork of [DubininDmitry's Harmony theme for logseq](https://github.com/DubininDmitry/Harmony-theme-for-Logseq) to match [freefreeno's Materia Manjaro Dark](https://github.com/freefreeno/Materia-Manjaro-Dark).
 
+![Screenshot](screenshot_20210608_170506.png)
+
 Only the dark theme has been changed. I'll figure out what to do with the light theme later.
 
 ## todo
