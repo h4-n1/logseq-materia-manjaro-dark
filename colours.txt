@@ -3,9 +3,8 @@ background-2 : #2e2e2e
 background-3 : #424242
 background-4 : #4d4d4d
 
-primary-color: 
-
 decoration: #009185 
+decoration-2: #17e7d6 
 
 link: #16decd 
 link-visited: #0fcbf5
