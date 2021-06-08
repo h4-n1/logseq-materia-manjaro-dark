@@ -6,7 +6,7 @@
 - [ ] extract colour list from materia theme
 - [ ] update colours in `custom.css`
 - [ ] update fonts
-	- [ ] sans-serif: [inter](https://rsms.me/inter/)
+	- [x] sans-serif: [inter](https://rsms.me/inter/)
 	- [ ] mono: [liberation mono](https://www.fontsquirrel.com/fonts/Liberation-Mono)
 
 ## ~~Installation~~
